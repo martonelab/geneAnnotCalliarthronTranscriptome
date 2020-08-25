@@ -31,6 +31,15 @@ The following three files are downloadable and are easily searchable for quick i
 - **SupFile2_Calliarthron_KEGG_Identifiers.txt** - This file contains all the sequence IDs and their gene annotation from the transcriptome. This is based on KEGG annotation.
 - **SupFile3_Calliarthron_Trinity_combined.txt.zip** - This file contains the sequence IDs and their associated sequence.
 
+To extract *Calliarthron* sequences that are annotated as present in a particular metabolic pathway download the file
+- CalliarthronKEGGExtraction
+In order to do the next steps, you will need to have [RStudio](https://rstudio.com/. Once you've downloaded the file, you'll open up the file on your computer:
+- KEGGKOMappingCalliarthron.Rmd
+There you'll find detailed instructions of how to extract a pathway and get something like this.
+
+![flowChart](https://github.com/martonelab/geneAnnotCalliarthronTranscriptome/blob/master/images/GeneIdentFlowChart.pdf)
+Fig 1. By the end of this tutorial you should be able to extract the *Calliarthron* sequences in a pathway of interest and a list of the sequences present.
+
 Citations
 -----------
 Luo, Weijun, Brouwer, Cory (2013). “Pathview: an R/Bioconductor package for pathway-based data integration and visualization.” Bioinformatics, 29(14), 1830-1831. doi: 10.1093/bioinformatics/btt285.
