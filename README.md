@@ -33,7 +33,7 @@ The following three files are downloadable and are easily searchable for quick i
 
 To extract *Calliarthron* sequences that are annotated as present in a particular metabolic pathway download the file
 - CalliarthronKEGGExtraction
-In order to do the next steps, you will need to have [RStudio](https://rstudio.com/. Once you've downloaded the file, you'll open up the file on your computer:
+In order to do the next steps, you will need to have [RStudio](https://rstudio.com/). Once you've downloaded the file, you'll open up the file on your computer:
 - KEGGKOMappingCalliarthron.Rmd
 There you'll find detailed instructions of how to extract a pathway and get something like this.
 
