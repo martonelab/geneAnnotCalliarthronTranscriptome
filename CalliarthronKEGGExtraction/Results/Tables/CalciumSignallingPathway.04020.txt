@@ -1,0 +1,49 @@
+"KO_Identifier"	"all.mapped"	"Contig"	"Name"
+"1"	"K00911"	""	NA	NA
+"2"	"K08041"	""	NA	NA
+"3"	"K13755"	""	NA	NA
+"4"	"K13240"	""	NA	NA
+"5"	"K15040"	"K15040"	"c147485_g1_i1"	"VDAC2; voltage-dependent anion channel protein 2"
+"6"	"K09565"	"K09565"	"c140385_g1_i1"	"PPIF; peptidyl-prolyl isomerase F (cyclophilin D) [EC:5.2.1.8]"
+"7"	"K05849"	"K05849"	"c35254_g1_i1"	"SLC8A, NCX; solute carrier family 8 (sodium/calcium exchanger)"
+"8"	"K04515"	"K04515,K05869,K08794"	"c127568_g1_i1"	"CAMK2; calcium/calmodulin-dependent protein kinase (CaM kinase) II [EC:2.7.11.17]"
+"9"	"K04348"	"K04348,K06268"	"c129348_g1_i1"	"PPP3C, CNA; serine/threonine-protein phosphatase 2B catalytic subunit [EC:3.1.3.16]"
+"10"	"K02677"	"K02677,K19662"	"c140770_g1_i1"	"PRKCA; classical protein kinase C alpha type [EC:2.7.11.13]"
+"11"	"K05871"	""	NA	NA
+"12"	"K14077"	"K14077,K16896"	"c139798_g1_i1"	"TPCN2; two pore calcium channel protein 2"
+"13"	"K01242"	""	NA	NA
+"14"	"K05860"	""	NA	NA
+"15"	"K06856"	""	NA	NA
+"16"	"K04361"	""	NA	NA
+"17"	"K04634"	""	NA	NA
+"18"	"K04809"	""	NA	NA
+"19"	"K01116"	""	NA	NA
+"20"	"K04718"	"K04718"	"c138724_g1_i1"	"SPHK; sphingosine kinase [EC:2.7.1.91]"
+"21"	"K05861"	""	NA	NA
+"22"	"K10784"	""	NA	NA
+"23"	"K00907"	"K00907"	"c141946_g1_i1"	"MYLK; myosin-light-chain kinase [EC:2.7.11.18]"
+"24"	"K05857"	""	NA	NA
+"25"	"K04958"	""	NA	NA
+"26"	"K00871"	"K00871"	"c140360_g4_i1"	"PHKG; phosphorylase kinase gamma subunit [EC:2.7.11.19]"
+"27"	"K04961"	""	NA	NA
+"28"	"K05858"	""	NA	NA
+"29"	"K16056"	""	NA	NA
+"30"	"K04850"	""	NA	NA
+"31"	"K04344"	""	NA	NA
+"32"	"K03914"	""	NA	NA
+"33"	"K02183"	"K02183"	"c133742_g1_i1"	"CALM; calmodulin"
+"34"	"K05865"	""	NA	NA
+"35"	"K05863"	"K05863"	"c126495_g1_i1"	"SLC25A4S, ANT; solute carrier family 25 (mitochondrial adenine nucleotide translocator), member 4/5/6/31"
+"36"	"K20858"	""	NA	NA
+"37"	"K05853"	"K05853"	"c140443_g1_i1"	"ATP2A; P-type Ca2+ transporter type 2A [EC:7.2.2.10]"
+"38"	"K04129"	""	NA	NA
+"39"	"K05852"	""	NA	NA
+"40"	"K04345"	"K04345"	"c139583_g1_i1"	"PKA; protein kinase A [EC:2.7.11.11]"
+"41"	"K04632"	""	NA	NA
+"42"	"K04855"	"K04855"	"c139798_g1_i1"	"CACNA1H, CAV3.2; voltage-dependent calcium channel T type alpha-1H"
+"43"	"K05850"	""	NA	NA
+"44"	"K16059"	""	NA	NA
+"45"	"K23445"	""	NA	NA
+"46"	"K23449"	""	NA	NA
+"47"	"K00476"	"K00476"	"c96792_g1_i1"	"ASPH; aspartate beta-hydroxylase [EC:1.14.11.16]"
+"48"	"K23450"	""	NA	NA
