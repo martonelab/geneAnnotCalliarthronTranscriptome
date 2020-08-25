@@ -16,6 +16,10 @@ Introduction
 ------------
 *Calliarthron* is a coralline red algae whoes transcriptome and genome have been recently sequenced. The trasncriptomic data has been annotated with [KEGG](https://www.genome.jp/kegg/pathway.html). Here we provide a method for extracting genes directly.
 
+The raw data can be found 
+- **Transcriptome data**: accession [PRJEB39919](link to ENA location)
+- **Genome data**: accession [PRJEB39919](link to ENA location)
+
 
 ![CalliarthronImage](http://www3.botany.ubc.ca/martone/gallery-images/22.jpg)
 
