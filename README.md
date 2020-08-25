@@ -16,7 +16,7 @@ Introduction
 ------------
 *Calliarthron* is a coralline red algae that is 
 
-[!CalliarthronImage](http://www3.botany.ubc.ca/martone/gallery-images/22.jpg)
+![CalliarthronImage](http://www3.botany.ubc.ca/martone/gallery-images/22.jpg)
 
 
 Citations
