@@ -8,13 +8,15 @@ Transcriptome of the coralline alga Calliarthron tuberculosum (Corallinales, Rho
 Purpose of this page
 ------------
 This page should provide you with the tools to:
-- Extract genes from Calliarthron (using annotations from KEGG analysis)
-- Extract whole metabolic pathways (using the pathview package (1))
-- Identify Calliarthron sequences with genome support
+- Extract genes from *Calliarthron* (using annotations from KEGG analysis)
+- Extract whole metabolic pathways from *Calliarthron* (using the pathview package (1))
+- Identify *Calliarthron* sequences with genome support
 
 Introduction
 ------------
+*Calliarthron* is a coralline red algae that is 
 
+[!CalliarthronImage](http://www3.botany.ubc.ca/martone/gallery-images/22.jpg)
 
 
 Citations
