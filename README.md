@@ -20,6 +20,13 @@ Introduction
 ![CalliarthronImage](http://www3.botany.ubc.ca/martone/gallery-images/22.jpg)
 
 
+Files
+------------
+The following three files are downloadable and are easily searchable for quick identification of genes you're interested in.
+**SupFile1_Calliarthron_combined_transcriptome_w_genomeHit.txt** - This file contains all the sequence IDs form the transcriptome that also have genomic support
+**SupFile2_Calliarthron_KEGG_Identifiers.txt** - This file contains all the sequence IDs and their gene annotation from the transcriptome. This is based on KEGG annotation.
+**SupFile3_Calliarthron_Trinity_combined.txt.zip** - This file contains the sequence IDs and their associated sequence.
+
 Citations
 -----------
 Luo, Weijun, Brouwer, Cory (2013). “Pathview: an R/Bioconductor package for pathway-based data integration and visualization.” Bioinformatics, 29(14), 1830-1831. doi: 10.1093/bioinformatics/btt285.
