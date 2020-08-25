@@ -14,7 +14,8 @@ This page should provide you with the tools to:
 
 Introduction
 ------------
-*Calliarthron* is a coralline red algae that is 
+*Calliarthron* is a coralline red algae whoes transcriptome and genome have been recently sequenced. The trasncriptomic data has been annotated with [KEGG](https://www.genome.jp/kegg/pathway.html). Here we provide a method for extracting genes directly.
+
 
 ![CalliarthronImage](http://www3.botany.ubc.ca/martone/gallery-images/22.jpg)
 
