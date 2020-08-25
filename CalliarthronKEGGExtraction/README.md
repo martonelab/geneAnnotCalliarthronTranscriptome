@@ -1,7 +1,6 @@
 KEGG KO mapping for Calliarthron Genome
 ================
 Jan Xue
-April 29 2019
 
 KEGG Based Identification of Metabolic Pathways in Calliarthron's Transcriptome
 -------------------------------------------------------------------------------
